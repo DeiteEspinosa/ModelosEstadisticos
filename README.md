@@ -1,6 +1,8 @@
 # Modelos Estadísticos
 
-Contenido
+Contenido:
+
+
 1. Espacio de probabilidad:
 
  Clásico: espacio muestral (Ω), eventos, probabilidad condicional,
@@ -11,6 +13,7 @@ independencia.
  Frecuentista: simulación de un volado
 
  Ejercicios que reforzan cada enfoque
+
 
 
 2. Variables aleatorias:
@@ -24,11 +27,13 @@ independencia.
  Añadir conceptos de:
    
    o FGM (Función Generadora de Momentos)
+   
    o FC (Función Característica)
 
  Ley de los grandes números (LGN)
 
  Teorema central del límite (TCL)
+
 
 
 3. Estadística inferencial:
