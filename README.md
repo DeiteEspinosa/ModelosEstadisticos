@@ -5,41 +5,40 @@ Contenido:
 
 1. Espacio de probabilidad:
 
-- Clásico: espacio muestral (Ω), eventos, probabilidad condicional,
-independencia.
+ - Clásico: espacio muestral (Ω), eventos, probabilidad condicional, independencia.
 
-- Geométrico: problema del encuentro.
+ - Geométrico: problema del encuentro.
 
-- Frecuentista: simulación de un volado
+ - Frecuentista: simulación de un volado
 
-- Ejercicios que reforzan cada enfoque
+ - Ejercicios que reforzan cada enfoque
 
 
 
 2. Variables aleatorias:
 
- Discretas
+ - Discretas
 
- Continuas
+ - Continuas
 
- Simulación de variables aleatorias
+ - Simulación de variables aleatorias
 
- Añadir conceptos de:
+ - Añadir conceptos de:
    
-   o FGM (Función Generadora de Momentos)
+   -- FGM (Función Generadora de Momentos)
    
-   o FC (Función Característica)
+   -- FC (Función Característica)
 
- Ley de los grandes números (LGN)
+ - Ley de los grandes números (LGN)
 
- Teorema central del límite (TCL)
+ - Teorema central del límite (TCL)
 
 
 
 3. Estadística inferencial:
 
- Estimadores y sus propiedades
+ - Estimadores y sus propiedades
 
- Intervalos de confianza (con código en Python)
+ - Intervalos de confianza (con código en Python)
 
- Pruebas de hipótesis
+ - Pruebas de hipótesis
