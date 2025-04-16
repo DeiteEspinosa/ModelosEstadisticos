@@ -5,14 +5,14 @@ Contenido:
 
 1. Espacio de probabilidad:
 
- Clásico: espacio muestral (Ω), eventos, probabilidad condicional,
+- Clásico: espacio muestral (Ω), eventos, probabilidad condicional,
 independencia.
 
- Geométrico: problema del encuentro.
+- Geométrico: problema del encuentro.
 
- Frecuentista: simulación de un volado
+- Frecuentista: simulación de un volado
 
- Ejercicios que reforzan cada enfoque
+- Ejercicios que reforzan cada enfoque
 
 
 
